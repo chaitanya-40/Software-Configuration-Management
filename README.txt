@@ -5,9 +5,8 @@ Chaitanya Vooradi
 Email: vooradichaitanya@gmail.com
 Student ID: 016230485
 
-Project Part: 03
 
-Introduction: A new function is added called 'Merge'. It allows user to merge a project tree present in the repository with one outside the repository. In order to perform merge, the user need to specify the R (repo), manifest file and T (target) project version.
+Introduction: Developing a git hub type of repository in java supporting check-in, check-out, Labeling manifest file and merge operations
 
 List of files: 1. README.txt
                2. SCM.java
