@@ -1,0 +1,60 @@
+Please select a number from given options
+1.Checkin
+2.Checkout
+3.Lable Manifest
+4.Merging
+5.Exit
+1
+Enter Source Path
+E:\Software Project\Intial checkin\walkme
+Enter the target path
+E:\Software Project\repository
+
+Please select a number from given options
+1.Checkin
+2.Checkout
+3.Lable Manifest
+4.Merging
+5.Exit
+2
+Enter the source path
+E:\Software Project\repository\walkme
+Enter the target folder path including folder name:
+E:\Software Project\check_out
+Enter manifest file path to refer including file name or Enter Lable
+E:\Software Project\repository\activity\manifest-1.txt
+manifest-1.txt
+Please select a number from given options
+1.Checkin
+2.Checkout
+3.Lable Manifest
+4.Merging
+5.Exit
+3
+Enter the Path of Manifest File to Lable
+E:\Software Project\repository\activity\manifest-1.txt
+Enter Number of Lables not more then 4
+2
+Enter Lable 1
+chaitu
+Enter Lable 2
+sourav
+Please select a number from given options
+1.Checkin
+2.Checkout
+3.Lable Manifest
+4.Merging
+5.Exit
+4
+Enter the source path
+E:\Software Project\repository\walkme
+Enter the target folder to merge
+E:\Software Project\check_out
+Enter manifest file path to refer including file name or Enter Lable
+chaitu
+Please select a number from given options
+1.Checkin
+2.Checkout
+3.Lable Manifest
+4.Merging
+5.Exit

@@ -1,0 +1,18 @@
+Lable: chaitu, sourav
+Folder Name and its Creation Time
+E:\Software Project\repository Date and Time: 12/03/17 00:13:40
+Commands entered by User
+E:\Software Project\Intial checkin\walkme
+E:\Software Project\repository
+
+FULL SOURCE PATH TO ORIGINAL PROJECT TREE: E:\Software Project\Intial checkin\walkme
+TARGET REPO PATH:E:\Software Project\repository
+
+--------------------------------
+-----------Files Copied with its details-----------------
+
+File_Name: 14521-27.txt  Original_File_Name:file3.txt, Original path: E:\Software Project\Intial checkin\walkme\file3.txtFile Created at12/03/2017 00:13:40
+
+File_Name: 11009-22.txt  Original_File_Name:filetrash1.txt, Original path: E:\Software Project\Intial checkin\walkme\filetrash1.txtFile Created at12/03/2017 00:13:40
+
+File_Name: 4086-11.txt  Original_File_Name:filetrash3.txt, Original path: E:\Software Project\Intial checkin\walkme\New folder\filetrash3.txtFile Created at12/03/2017 00:13:40

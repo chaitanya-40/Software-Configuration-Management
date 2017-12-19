@@ -1,0 +1,21 @@
+Folder Name and Date Created
+E:\Software Project\check_out  Date and Time Created: 12/03/17 00:15:11
+
+COMMANDS GIVEN BY THE USER:
+E:\Software Project\repository\walkme
+E:\Software Project\check_out
+
+Source Path to Original Tree
+E:\Software Project\repository\walkme
+
+TARGET REPO PATH:
+E:\Software Project\check_out
+
+-----------------------------------------
+---------------Files Copied details---------------
+
+File Name: file3.txtOriginal File Name: 14521-27.txtPath Copied From: E:\Software Project\repository\walkme\file3\14521-27.txt  Date and Time File Created 12/03/2017 00:15:11
+
+File Name: filetrash1.txtOriginal File Name: 11009-22.txtPath Copied From: E:\Software Project\repository\walkme\filetrash1\11009-22.txt  Date and Time File Created 12/03/2017 00:15:11
+
+File Name: filetrash3.txtOriginal File Name: 4086-11.txtPath Copied From: E:\Software Project\repository\walkme\New folder\filetrash3\4086-11.txt  Date and Time File Created 12/03/2017 00:15:11
