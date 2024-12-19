@@ -1,9 +1,7 @@
 CECS 543 - ADVANCED SOFTWARE ENGINEERING
 
 Source Code Management project: Merged
-Chaitanya Vooradi
-Email: vooradichaitanya@gmail.com
-Student ID: 016230485
+
 
 
 Introduction: Developing a git hub type of repository in java supporting check-in, check-out, Labeling manifest file and merge operations
